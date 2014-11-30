@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.tictactoe.Checklist" >
+
+    <item
+
+        android:id="@+id/action_settings"
+
+        android:orderInCategory="100"
+
+        android:showAsAction="never"
+
+        android:title="@string/action_settings"/>
+
+    <item android:id="@+id/option1" android:title="@string/gamescreen"></item>
+
+    <item android:id="@+id/info" android:title="@string/info"></item>
+
+    <item android:id="@+id/option3" android:title="@string/Scores"></item>
+
+    
+
+   
+
+
+     
+     
+</menu>

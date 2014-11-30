@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.tictactoe.Selection" >
+
+    <TextView
+        android:id="@+id/player"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/playerChoice"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/player"
+        android:layout_below="@+id/player"
+        android:layout_marginRight="39dp"
+        android:layout_marginTop="22dp" >
+
+        <RadioButton
+            android:id="@+id/play1X"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/play1" />
+
+        <RadioButton
+            android:id="@+id/play2O"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/play2" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/okBut"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/radioGroup1"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="38dp"
+        android:layout_toRightOf="@+id/radioGroup1"
+        android:text="@string/ok" />
+
+</RelativeLayout>

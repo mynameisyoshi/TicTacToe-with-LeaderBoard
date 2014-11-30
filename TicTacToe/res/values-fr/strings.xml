@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+       <string name="app_name">TicTacToe</string>
+
+    <string name="hello_world">Bonjour monde</string>
+
+    <string name="action_settings">parametres</string>
+
+    <string name="title_activity_screen2">ecran</string>
+
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="title_activity_checklist">Liste de controle</string>
+
+    <string name="title_activity_settings">Parametres</string>
+
+    <string name="title_activity_game_screen">Ecran de jeu</string>
+
+    <string name="title_activity_leaderboard">Leaderboard</string>
+
+    <string name="title_activity_info_screen">Ecran dinformation</string>
+
+    <string name="Next">Prochaine</string>
+
+    <string name="title_activity_play_option">l option de lecture</string>
+
+
+
+    <color name="black">#000</color>
+
+
+
+    <string name="Button">Joueur1</string>
+
+    <string name="Button2">Joueur2</string>
+
+    <string name="ENTER_NAME">Entrez le nom player2</string>
+
+    <string name="description">TIC TAC TOE est un jeu dans lequel deux joueurs alternativement mis X ou O dans les espaces carrés dans une grille. L objectif consiste à obtenir la ligne de 3XS ou 3Os</string>
+
+    <string name="abouttic">À propos de Tic Tac Toe</string>
+
+    <string name="developedby">développé par</string>
+
+    <string name="harsh"> Harsh Joshi</string>
+
+    <string name="sanvir">Sanvir Bains</string>
+
+    <string name="himangi">Himangi Topiwala</string>
+
+    <string name="Scores">Scores</string>
+
+    <string name="info">Infos</string>
+
+    <string name="welcome">Accueil!</string>
+
+    <string name="exit">Sortie</string>
+
+    <string name="gamescreen">Jeu</string>
+
+    <string name="title_activity_game">Jeu</string>
+
+    <string name="first_human">Vous allez dabord.</string>
+
+    <string name="turn_human">votre tour.</string>
+
+    <string name="turn_computer">le tour de Android.</string>
+
+    <string name="result_tie">SES est ici!</string>
+
+    <string name="result_human_wins">vous avez gagné!</string>
+
+    <string name="result_android_wins">Android Won!</string>
+
+    <string name="result_p1_wins">au joueur ₩ 1!</string>
+
+    <string name="result_p2_wins">au joueur ₩ 2!</string>
+
+    <string name="one">1</string>
+
+    <string name="two">2</string>
+
+    <string name="three">3</string>
+
+    <string name="four">4</string>
+
+    <string name="five">5</string>
+
+    <string name="six">6</string>
+
+    <string name="seven">7</string>
+
+    <string name="eight">8</string>
+
+    <string name="nine">9</string>
+
+    <string name="human">Humain:  </string>
+
+    <string name="ties">Son:  </string>
+
+    <string name="android">Androïde  </string>
+
+    <string name="play">Jouer</string>
+
+    <string name="title_activity_play_game">jouer le jeu</string>
+
+    <string name="new_game">Rejouer</string>
+
+    <string name="exit_game">sortie jeu</string>
+
+    <string name="title_activity_my_bluetooth">Mon Bluetooth</string>
+
+    <string name="turn_player_one">pour le joueur 1 tour</string>
+
+    <string name="turn_player_two">pour le joueur 2 tour</string>
+
+    <string name="title_activity_two_player">Activité à deux joueurs</string>
+
+    <string name="title_activity_main">Activité principale</string>
+
+    <string name="title_activity_playerr_two">Le joueur deux</string>
+
+    <string name="bright">Luminosité</string>
+
+    <string name="music">Musique</string>
+
+    <string name="but">SMS Lecture</string>
+
+    <string name="title_activity_selection">Sélection</string>
+
+    <string name="play1">Joueur 1 ( x )</string>
+
+    <string name="play2">Joueur 2 ( o )</string>
+
+    <string name="playerChoice">Choisir votre joueur:</string>
+
+    <string name="ok">Daccord</string>
+
+    <string name="title_activity_sms_two_play">SMS activité à deux joueurs</string>
+
+
+<string name="back">arrière</string>
+
+
+
+</resources>
